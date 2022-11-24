@@ -1,0 +1,23 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node suma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielaleonc1997/prueba-gha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielaleonc1997/prueba-gha/issues"
+  },
+  "homepage": "https://github.com/marcosrivasr/github-actions-tutorial#readme",
+  "devDependencies": {
+    "jest": "^25.5.4"
+  }
+}
